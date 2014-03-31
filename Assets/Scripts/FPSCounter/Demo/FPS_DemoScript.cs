@@ -6,7 +6,7 @@ public class FPS_DemoScript : MonoBehaviour
 	private string[] qualities;
 
 	// Use this for initialization
-	void Start ()
+	void Start()
 	{
 		qualities=QualitySettings.names;
 

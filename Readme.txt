@@ -17,4 +17,4 @@ or
 Links:
 
 Site:   http://gris.ucoz.ru/index/fps_counter/0-7
-Github: https://github.com/Gris87/FPS_Counter
+GitHub: https://github.com/Gris87/FPS_Counter

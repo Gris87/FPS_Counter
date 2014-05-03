@@ -7,7 +7,7 @@ Demo: http://gris.ucoz.ru/UnityModules/FPS_Counter/Web/FPS_Counter.html
 
 Description:
 
-Just add prefab on your scene to use FPS Counter.
+Just add prefab on your scene to use FPS counter.
 You can globally enable/disable FPS calculation by a command:
 
 * FPSCounter.isOn=true;
